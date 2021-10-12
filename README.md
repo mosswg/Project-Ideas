@@ -1,2 +1,3 @@
-# Project-Ideas
-A list of my ideas for future projects
+# Project Ideas
+
+ - MXS: A scripting style language that compiles directly into x86 assembly
